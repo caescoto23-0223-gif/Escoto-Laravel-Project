@@ -94,7 +94,7 @@ Feel free to reach out or connect with me:
 
 📧 Email: (Caescoto23-0223@cca.edu.ph)
 
-🌐 GitHub: (add your GitHub profile link)
+🌐 GitHub: (https://github.com/caescoto23-0223-gif/Escoto-Laravel-Project.git)
 
 
 
